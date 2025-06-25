@@ -1,0 +1,4 @@
+3
+Hamburguer 12.50
+Batata 6.00
+Refrigerante 5.00
